@@ -9,7 +9,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | Mayank |
+| **Student Name** | Mayank Joshi |
 | **Registration Number** | 24BCE10858 |
 | **Course** | Open Source Software |
 | **Software Audited** | VLC Media Player |
