@@ -93,11 +93,11 @@ Displays a formatted welcome screen showing key Linux system information — dis
 
 **📸 Script 1 — Source Code**
 
-![Script 1 Code](screenshots(input+outout)/script1_code.png)
+![Script 1 Code](screenshots/script1_code.png)
 
 **📸 Script 1 — Terminal Output**
 
-![Script 1 Output](screenshots(input+outout)/script1_output.png)
+![Script 1 Output](screenshots/script1_output.png)
 
 ---
 
@@ -119,11 +119,11 @@ Checks whether VLC is installed on the system using `dpkg`, retrieves its versio
 
 **📸 Script 2 — Source Code**
 
-![Script 2 Code](screenshots(input+outout)/script2_code.png)
+![Script 2 Code](screenshots/script2_code.png)
 
 **📸 Script 2 — Terminal Output**
 
-![Script 2 Output](screenshots(input+outout)/script2_output.png)
+![Script 2 Output](screenshots/script2_output.png)
 
 ---
 
@@ -147,11 +147,11 @@ Loops through a list of important Linux system directories (`/etc`, `/var/log`, 
 
 **📸 Script 3 — Source Code**
 
-![Script 3 Code](screenshots(input+outout)/script3_code.png)
+![Script 3 Code](screenshots/script3_code.png)
 
 **📸 Script 3 — Terminal Output**
 
-![Script 3 Output](screenshots(input+outout)/script3_output.png)
+![Script 3 Output](screenshots/script3_output.png)
 
 ---
 
@@ -180,11 +180,11 @@ Reads a log file line by line, counts how many lines contain a specified keyword
 
 **📸 Script 4 — Source Code**
 
-![Script 4 Code](screenshots(input+outout)/script4_code.png)
+![Script 4 Code](screenshots/script4_code.png)
 
 **📸 Script 4 — Terminal Output**
 
-![Script 4 Output](screenshots(input+outout)/script4_output.png)
+![Script 4 Output](screenshots/script4_output.png)
 
 ---
 
@@ -210,11 +210,11 @@ Interactively asks the user three questions about their relationship with open-s
 
 **📸 Script 5 — Source Code**
 
-![Script 5 Code](screenshots(input+outout)/script5_code.png)
+![Script 5 Code](screenshots/script5_code.png)
 
 **📸 Script 5 — Terminal Output**
 
-![Script 5 Output](screenshots(input+outout)/script5_output.png)
+![Script 5 Output](screenshots/script5_output.png)
 
 ---
 
